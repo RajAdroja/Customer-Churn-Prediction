@@ -119,4 +119,4 @@ Ensure you have Python installed along with the required libraries.
 
 1. Clone this repository and navigate to the project directory.
 2. Load your new customer data into a Pandas DataFrame.
-3. Run the provided script or use the function below:
+3. Run the provided script.
