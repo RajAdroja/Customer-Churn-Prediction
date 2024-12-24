@@ -113,7 +113,7 @@ A preprocessing pipeline was created to automate the steps for new data predicti
 ## Usage Instructions
 
 ### Prerequisites
-Ensure you have Python installed along with the required libraries (see [Dependencies](#dependencies)).
+Ensure you have Python installed along with the required libraries.
 
 ### Steps:
 
